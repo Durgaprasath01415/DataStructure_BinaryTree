@@ -1,4 +1,4 @@
-MyBinaryTree.java
- MyBinaryTree
 MyBinaryNode.java
  MyBinaryNode
+MyBinaryTree.java
+ MyBinaryTree
